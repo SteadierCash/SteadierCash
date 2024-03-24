@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteadierCash
 - 👀 I’m interested in Computer Science, Hiking and Fantasy Books
-- 🌱 I’m currently learning C++ Language and Networking
+- 🌱 I’m currently learning C++ and Network
 - 💞️ I’m looking to collaborate on projects aimed at developing new skills
 - 📫 How to reach my: mateusz.podstawka23@gmail.com
 - ⚡ Fun fact: I once memorized 315 decimal numbers of Pi (now i remember about 30)
