@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects aimed at developing new skills
 - 📫 How to reach my: mateusz.podstawka23@gmail.com
+- ✨ My webpage: https://steadiercash.github.io/ 
 - ⚡ Fun fact: I once memorized 315 decimal numbers of Pi (now i remember about 30)
 
 <!---
