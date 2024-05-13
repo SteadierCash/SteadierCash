@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects aimed at developing new skills
 - 📫 How to reach my: mateusz.podstawka23@gmail.com
 - ✨ My webpage: https://steadiercash.github.io/ 
-- ⚡ Fun fact: I once memorized 315 decimal numbers of Pi (now i remember about 30)
+- ⚡ Fun fact: I once memorized 315 decimal numbers of $\pi$ (now i remember about 30)
 
 <!---
 SteadierCash/SteadierCash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
