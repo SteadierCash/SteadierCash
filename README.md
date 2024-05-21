@@ -15,6 +15,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 📫 How to Reach Me
 - **Email:** [mateusz.podstawka23@gmail.com](mailto:mateusz.podstawka23@gmail.com)
 - **My Webpage:** [steadiercash.github.io](https://steadiercash.github.io/)
+- **LinkedIn:** [inkedin.com/mateusz-podstawka](https://www.linkedin.com/in/mateusz-podstawka-146454210/)
+- **LeetCode:** [leetcode.com/SteadierCash](https://leetcode.com/u/SteadierCash/)
 
 ## Projects
 - [Eldoria: Magic Quest](https://github.com/SteadierCash/My_Python_projects/tree/main/Eldoria): A text-based adventure game written in Python where players navigate diverse paths, confront enemies, cast spells, and make
