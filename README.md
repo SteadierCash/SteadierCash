@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a bit about me:
   - Computer Science
   - Hiking
   - Fantasy Books
-- **Currently Learning:** C++
+- **Currently Learning:** Java
 - **Looking to Collaborate On:** Projects aimed at developing new skills
 - **Fun Fact:** I once memorized 315 decimal numbers of $\pi$ (now I remember about 30)
 
