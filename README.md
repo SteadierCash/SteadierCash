@@ -1,7 +1,7 @@
 # Hi, I'm @SteadierCash 👋
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! Here's a bit about me:
-
+I'm a first-year Masters student deeply passionate about computer science and programming. I spend all my time soaking up new knowledge and skills, always eager to learn more. I'm highly organized and thrive in environments where I can both learn and contribute. I'm looking for a role where I can keep growing and share my passion with others.
 ## About Me
 - **Name:** Mateusz Podstawka
 - **Interests:** 
