@@ -8,7 +8,6 @@ I'm a first-year Masters student deeply passionate about computer science and pr
   - Computer Science
   - Hiking
   - The Lord of the Rings 🧙‍♂️
-- **Currently Learning:** Java
 - **Looking to Collaborate On:** Projects aimed at developing new skills
 - **Fun Fact:** I once memorized 315 decimal numbers of $\pi$ (now I remember about 30)
 
