@@ -27,16 +27,11 @@ console interface, it empowers users to efficiently organize and track their job
 ## Skills
 - **Programming Languages:**
   - Python
-  - C
-  - C++
   - Java
   - SQL
 - **Tools and Technologies:**
   - Git
-  - AWS
-  - Azure
-  - Flask
-  - Linux
+  - GCP
 
 ## Get in Touch
 Feel free to reach out if you want to collaborate or just have a chat about any of my interests. I'm always open to connecting with new people!
