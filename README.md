@@ -1,7 +1,6 @@
 # Hi, I'm @SteadierCash 👋
 Welcome to my GitHub profile!
 
-I'm a first-year Masters student deeply passionate about computer science and programming. I spend all my time soaking up new knowledge and skills, always eager to learn more. I'm highly organized and thrive in environments where I can both learn and contribute. I'm looking for a role where I can keep growing and share my passion with others.
 ## About Me
 - **Name:** Mateusz Podstawka
 - **Interests:** 
@@ -17,17 +16,10 @@ I'm a first-year Masters student deeply passionate about computer science and pr
 - **LinkedIn:** [inkedin.com/mateusz-podstawka](https://www.linkedin.com/in/mateusz-podstawka-146454210/)
 - **LeetCode:** [leetcode.com/SteadierCash](https://leetcode.com/u/SteadierCash/)
 
-## Projects
-- [Eldoria: Magic Quest](https://github.com/SteadierCash/My_Python_projects/tree/main/Eldoria): A text-based adventure game written in Python where players navigate diverse paths, confront enemies, cast spells, and make
-decisions, shaping their character's fate.
-- [Hotelling Model Simulation](https://github.com/SteadierCash/My_Python_projects/tree/main/Hotelling): This Python project simulates a Hoteling model with four players, analyzing strategic positioning and market competition. This script was used by me in my bachelor thesis.
-- [Job Offers Manager](https://github.com/SteadierCash/My_cpp_projects/tree/master/job_tracker): The Job Offers Manager is a C++ application tailored to simplify job offer management for individual job seekers. With a user-friendly
-console interface, it empowers users to efficiently organize and track their job opportunities.
-
 ## Skills
 - **Programming Languages:**
-  - Python
   - Java
+  - Python
   - SQL
 - **Tools and Technologies:**
   - Git
